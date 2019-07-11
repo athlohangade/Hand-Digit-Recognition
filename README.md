@@ -1,4 +1,4 @@
-<h1><u>Hand-DIgit-Recognition-Using-CNN-</u></h1>
+<h1><u>Hand-DIgit-Recognition-Using-CNN</u></h1>
 <h2>Brief -</h2> 
 Trained a CNN model on the MNIST dataset, using tensorflow as backend and implmented a GUI for user to choose various options for predicting the result.<br>
 
